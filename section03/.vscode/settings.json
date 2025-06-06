@@ -1,0 +1,7 @@
+{
+    "github.copilot.chat.search.semanticTextResults": false,
+    "github.copilot.chat.setupTests.enabled": false,
+    "chat.agent.enabled": false,
+    "chat.focusWindowOnConfirmation": false,
+    "telemetry.feedback.enabled": false
+}
